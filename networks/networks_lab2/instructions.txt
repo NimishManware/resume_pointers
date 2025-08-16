@@ -1,0 +1,19 @@
+Server side:
+python3 generator.py
+Takes input bitstring on the first line and 
+two space separated fractions on next line
+
+Ex.
+$ python3 generator.py
+1010100001001
+0.5 0.7
+
+
+Receiver side:
+After the inputs are given to the generator,
+Sound would start to play
+Then run 
+python3 recording.py
+
+Ex.
+$ python3 recording.py

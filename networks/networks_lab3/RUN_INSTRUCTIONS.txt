@@ -1,0 +1,8 @@
+HOW TO RUN CODE
+
+1. Set up the MAC addresses on both the sender and receiver machines
+2. Run the listener.py file on both sender and receiver machines
+3. On the sender machine, enter the message and destination MAC address
+   and press ENTER/RETURN
+4. On the receiver machine, enter the message and destination MAC address
+   ad press ENTER/RETURN

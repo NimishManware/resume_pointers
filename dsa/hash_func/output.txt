@@ -1,0 +1,11 @@
+Welcome to Dictionary 
+>>> Hash Value: 23
+Free Location: 23
+Successfully Added 
+>>> Hash Value: 23
+Free Location: 24
+Successfully Added 
+>>> Entry removed Successfully
+>>> Entry removed Successfully
+>>> Entry not present
+>>> 
